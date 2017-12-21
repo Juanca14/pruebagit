@@ -1,10 +1,10 @@
 package org.gradle;
 
-public class Prueba_git {
+public class PruebaGit {
 	
 	private String nombre;
 	
-	public Prueba_git(String nom){
+	public PruebaGit(String nom){
 		this.nombre = nom;
 	}
 
