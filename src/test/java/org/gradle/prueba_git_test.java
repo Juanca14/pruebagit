@@ -7,7 +7,7 @@ public class prueba_git_test {
 	@Test
 	public void setNombre(){
 		
-		prueba_git prueba = new prueba_git("Juan");		
+		Prueba_git prueba = new Prueba_git("Juan");		
 		assertEquals("Juan", prueba.getNombre());
 		
 	}
